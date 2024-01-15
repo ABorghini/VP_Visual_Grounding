@@ -20,8 +20,10 @@ The models and their variants are compared on the RefCOCOs datasets, in particul
 - **RefCOCO**
 - **RefCOCO+**
 - **RefCOCOg**
-![image](https://github.com/ABorghini/VP_Visual_Grounding/assets/80713403/cb45ad62-29ee-497d-af77-0f1503bac747)
 
 As these examples shown, RefCOCO and RefCOCOg allow annotations to include location-based descriptions, while RefCOCO+ only allows appearance-based descriptions (e.g. color of the t-shirt). This makes RefCOCO+ a more challenging dataset for models to predict, as they need to focus on extracting the visual features of objects rather than relying on their location in the image.
 RefCOCOg has a larger proportion of objects that are difficult to describe based on appearance, such as animals and objects with intricate details. This makes RefCOCOg a more challenging dataset for models to generalize to a wider range of objects.
 RefCOCOg contains images with more clutter and distractions, which makes it more difficult for models to both localize and describe objects accurately.
+![image](https://github.com/ABorghini/VP_Visual_Grounding/assets/80713403/cb45ad62-29ee-497d-af77-0f1503bac747)
+
+
