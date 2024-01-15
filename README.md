@@ -1,4 +1,4 @@
-# Visual_Grounding
+# Visual Grounding
 
 Borghini Alessia (1834906), Di Valerio Federico (1835405)
 
